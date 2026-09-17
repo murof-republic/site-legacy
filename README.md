@@ -1,10 +1,3 @@
-# Murof — Site
-
-Repositório com o código-fonte do site da **Murof**.
-
-**Site:** https://murof.me/ <br>
-**Discord:** https://discord.gg/MWrYrytMCg
-
 ### Licença
 
 O código deste repositório está sob a **GPLv3**, conforme descrito no arquivo `LICENSE`.
